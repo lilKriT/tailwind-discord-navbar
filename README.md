@@ -1,7 +1,3 @@
-# tailwind-discord-navbar
-A discord inspired navbar. Following the tutorial by Fireship.
-Created by lilKriT.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
